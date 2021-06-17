@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: en-us
-relativeURLs : true
+relativeURLs: true
 title: Personal website and blog
 theme: hugo-refresh
 # theme: ../..
