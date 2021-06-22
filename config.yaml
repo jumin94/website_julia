@@ -42,7 +42,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/logo.png" #"/images/favicon.svg"
+  favicon: "/images/favicon.svg"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
@@ -184,7 +184,7 @@ languages:
       # i.e., the parameters of the default language
       # won't be inherited.
       footer:
-        logo: "/images/logo.png" #"/images/refresh-square.svg"
+        logo: "/images/refresh-square.svg"
         email: 
           link: julia.mindlin@cima.fcen.uba.ar
           title: Email
