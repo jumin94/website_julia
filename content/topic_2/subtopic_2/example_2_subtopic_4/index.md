@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summary: "Bayesian Networks"
 summaryImage: "BayesianNetwork.png"
-tags: ["ongoing_research", "machine_learning"]
+tags: ["ongoing_research", "machine_learning","phd_research"]
 ---
 
 This post is on what I am learning related to Bayesian Networks and their applications to climate science. Development of a bayesian network for further exploration and development of a causal effect network. 
