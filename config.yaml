@@ -42,7 +42,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/favicon.svg"
+  favicon: "/images/logo.png" #"/images/favicon.svg"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
@@ -76,7 +76,7 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/logo.png"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -119,7 +119,7 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/logo.png" #"/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
       link: julia.mindlin@cima.fcen.uba.ar
@@ -184,7 +184,7 @@ languages:
       # i.e., the parameters of the default language
       # won't be inherited.
       footer:
-        logo: "/images/refresh-square.svg"
+        logo: "/images/logo.png" #"/images/refresh-square.svg"
         email: 
           link: julia.mindlin@cima.fcen.uba.ar
           title: Email
