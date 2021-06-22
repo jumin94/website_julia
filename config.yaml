@@ -109,9 +109,9 @@ params:
     # option to specify the title in the homepage
     title: Julia Mindlin
     # option to specify the subtitle in the homepage
-    subtitle: Profesional website - personal blog
+    subtitle: Profesional website - personal blog / Satellite image shows water vapor from argentinian National Weather Service  - SMN (https://www.smn.gob.ar/satelite) 
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/vapor_de_agua_2021_06_22.jpg" #"/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -175,7 +175,7 @@ languages:
       homepage:
         title: Julia Mindlin
         subtitle: Página web profesional / blog personal
-        image: "/images/avataaars.png" # worker.svg 
+        image: "/images/home.jpg" #"/images/avataaars.png" # worker.svg 
         imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
