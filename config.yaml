@@ -111,7 +111,7 @@ params:
     # option to specify the subtitle in the homepage
     subtitle: Personal website and blog
     # option to specify image in the homepage
-    image: "/images/vapor_de_agua_2021_06_22.jpg" #"/images/avataaars.png" # worker.svg 
+    image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
