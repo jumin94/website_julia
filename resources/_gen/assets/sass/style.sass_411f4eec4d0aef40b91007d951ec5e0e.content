@@ -6909,7 +6909,7 @@ Navbar
   .navbar.is-fresh .navbar-item {
     color: #999; }
     .navbar.is-fresh .navbar-item.is-secondary:hover {
-      color: #11199e !important; }
+      color: #F39200 !important; }
     .navbar.is-fresh .navbar-item.has-dropdown {
       padding: 10px 0; }
       .navbar.is-fresh .navbar-item.has-dropdown .navbar-link {
@@ -6924,13 +6924,13 @@ Navbar
         top: 3.4rem;
         min-width: 220px;
         margin-top: 4px;
-        border-top-color: #11199e; }
+        border-top-color: #F39200; }
         .navbar.is-fresh .navbar-item.has-dropdown .navbar-dropdown .navbar-item {
           padding: 10px 20px; }
       .navbar.is-fresh .navbar-item.has-dropdown:hover .navbar-link {
-        color: #11199e; }
+        color: #F39200; }
         .navbar.is-fresh .navbar-item.has-dropdown:hover .navbar-link:after {
-          border-color: #11199e; }
+          border-color: #F39200; }
     .navbar.is-fresh .navbar-item .signup {
       display: block;
       line-height: 0;
@@ -6972,7 +6972,7 @@ div.nav-item.is-drop:hover .dropContain .dropOut {
 
 div.nav-item.is-drop:hover, div.nav-item.is-drop:hover a {
   border-bottom: 1px solid transparent !important;
-  color: #11199e; }
+  color: #F39200; }
 
 div.nav-item.is-drop:hover .dropContain {
   top: 65px;
@@ -7052,7 +7052,7 @@ Section Styles
   background-color: #fbfbfb; }
 
 .section.section-secondary {
-  background-color: #11199e; }
+  background-color: #F39200; }
 
 .section.section-half {
   height: 75vh !important; }
@@ -7074,7 +7074,7 @@ Section Styles
 .divider {
   height: 3px;
   border-radius: 50px;
-  background: #11199e;
+  background: #F39200;
   width: 60px; }
   .divider.is-centered {
     margin: 0 auto; }
@@ -7140,7 +7140,7 @@ footer.footer-dark {
     footer.footer-dark .footer-column ul.link-list :hover {
       color: #fcfcfc; }
   footer.footer-dark .footer-column .level-item .icon {
-    color: #11199e;
+    color: #F39200;
     transition: all 0.5s; }
     footer.footer-dark .footer-column .level-item .icon :hover {
       color: #fcfcfc; }
@@ -7193,8 +7193,8 @@ Classes to change the feel of bulma buttons
 
 .button.secondary-btn {
   outline: none;
-  border-color: #11199e;
-  background-color: #11199e;
+  border-color: #F39200;
+  background-color: #F39200;
   color: #fff;
   transition: all 0.5s; }
   .button.secondary-btn:hover {
@@ -7203,12 +7203,12 @@ Classes to change the feel of bulma buttons
     box-shadow: 0 14px 26px -12px rgba(243, 146, 0, 0.42), 0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(243, 146, 0, 0.2) !important;
     opacity: 0.8; }
   .button.secondary-btn.btn-outlined {
-    border-color: #11199e;
-    color: #11199e;
+    border-color: #F39200;
+    color: #F39200;
     background-color: transparent; }
     .button.secondary-btn.btn-outlined:hover {
       color: #fff;
-      background-color: #11199e; }
+      background-color: #F39200; }
 
 .button.button.accent-btn {
   outline: none;
@@ -7278,7 +7278,7 @@ Cards and Card content styles
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header.primary {
     background-color: #4FC1EA; }
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header.secondary {
-    background-color: #11199e; }
+    background-color: #F39200; }
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header.accent {
     background-color: #00efb7; }
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header ul li a {
@@ -7312,9 +7312,9 @@ input.input {
     input.input.is-primary-focus:focus ~ span.icon i {
       color: #4FC1EA; }
   input.input.is-secondary-focus:focus {
-    border-color: #11199e; }
+    border-color: #F39200; }
     input.input.is-secondary-focus:focus ~ span.icon i {
-      color: #11199e; }
+      color: #F39200; }
   input.input.is-accent-focus:focus {
     border-color: #00efb7; }
     input.input.is-accent-focus:focus ~ span.icon i {
@@ -7437,7 +7437,7 @@ Sidebar Styles
     transform: scale(0.07);
     transform-origin: 0 0; }
     .menu-icon-wrapper svg path {
-      stroke: #11199e;
+      stroke: #F39200;
       stroke-width: 40px;
       stroke-linecap: round;
       stroke-linejoin: round;
@@ -7499,7 +7499,7 @@ Sidebar Styles
       transition: all .3s;
       cursor: pointer; }
       .sidebar .sidebar-header svg:hover {
-        stroke: #11199e;
+        stroke: #F39200;
         transform: rotate(180deg); }
   .sidebar .inner {
     position: relative; }
@@ -7545,7 +7545,7 @@ Sidebar Styles
     .sidebar .inner li.have-children, .sidebar .inner li {
       position: relative; }
     .sidebar .inner li.have-children.active > a, .sidebar .inner li.have-children.active > a span, .sidebar .inner li.have-children.active > a span:after {
-      color: #11199e; }
+      color: #F39200; }
     .sidebar .inner li.active.have-children span::after {
       -moz-transform: rotate(90deg);
       -o-transform: rotate(90deg);
@@ -7705,7 +7705,7 @@ button:focus, button:active {
   position: absolute;
   left: 50%;
   top: 50%;
-  background-image: url("//localhost:1313/loader.svg");
+  background-image: url("/loader.svg");
   background-size: 80px 80px;
   background-repeat: no-repeat;
   background-position: center;
@@ -7731,7 +7731,7 @@ button:focus, button:active {
 #backtotop.visible a:hover {
   outline: none;
   opacity: 0.9;
-  background: #11199e; }
+  background: #F39200; }
 
 #backtotop a {
   outline: none;
