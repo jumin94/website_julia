@@ -1,6 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 title: Personal website and blog
+relativeURLs: true
 theme: hugo-refresh
 # theme: ../..
 
