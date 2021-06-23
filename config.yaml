@@ -1,5 +1,6 @@
-baseURL: https://example.com
+baseURL: "/"
 languageCode: en-us
+relativeURLs: true
 title: Personal website and blog
 theme: hugo-refresh
 # theme: ../..
@@ -41,7 +42,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/favicon.svg"
+  favicon: "/images/logo.png" #"/images/favicon.svg"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
@@ -52,7 +53,7 @@ params:
   # parameter used to specify if you want to calculate the js integrity
   jsIntegrity: true
   # option to specify the main colour of the theme
-  mainColour: "#F39200"
+  mainColour: "#11199e"
 
   # summary options
   summary:
@@ -75,7 +76,7 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/logo.png"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -106,11 +107,11 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Julia The White
+    title: Julia Mindlin
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Profesional website - personal blog / Satellite image shows water vapor from argentinian National Weather Service  - SMN (https://www.smn.gob.ar/satelite) 
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/vapor_de_agua_2021_06_22.jpg" #"/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -118,14 +119,14 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/logo.png" #"/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
+      link: julia.mindlin@cima.fcen.uba.ar
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: your_linkedin_profile
+      link: /in/julia-mindlin-256997129
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -134,9 +135,9 @@ params:
     #   title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
-    # github: 
-    #   link: username
-    #   title: Github
+    github: 
+       link: jumin94
+       title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer
     # twitter: 
@@ -153,7 +154,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2021
+    copyright: Julia Mindlin - 2021
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -162,8 +163,8 @@ languages:
   en:
     languageName:       English
     weight:             1
-  ru:
-    languageName:       Russian
+  es:
+    languageName:       Spanish
     weight:             2
     # When Specifying different parameters for a different language 
     # you need to specify all the mandatory sub-parameters as well.
@@ -172,9 +173,9 @@ languages:
     # See example below:
     params:
       homepage:
-        title: Julia белая краска
-        subtitle: Персональный сайт и блог
-        image: "/images/avataaars.png" # worker.svg 
+        title: Julia Mindlin
+        subtitle: Página web profesional / blog personal
+        image: "/images/home.jpg" #"/images/avataaars.png" # worker.svg 
         imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
@@ -183,12 +184,12 @@ languages:
       # i.e., the parameters of the default language
       # won't be inherited.
       footer:
-        logo: "/images/refresh-square.svg"
+        logo: "/images/logo.png" #"/images/refresh-square.svg"
         email: 
-          link: имя.фамилия@домен.com
-          title: Эл. адрес
+          link: julia.mindlin@cima.fcen.uba.ar
+          title: Email
         linkedin: 
-          link: your_linkedin_profile
+          link: julia_mindlin
           title: LinkedIn
         # facebook: 
         #   link: your.username
@@ -202,5 +203,5 @@ languages:
         # github: 
         #   link: username
         #   title: Github
-        copyright: Julia белая краска - 2020
+        copyright: Julia Mindlin - 2021
       
