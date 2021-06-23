@@ -1,6 +1,5 @@
-baseURL: "/"
+baseURL: https://example.com
 languageCode: en-us
-relativeURLs: true
 title: Personal website and blog
 theme: hugo-refresh
 # theme: ../..
@@ -53,7 +52,7 @@ params:
   # parameter used to specify if you want to calculate the js integrity
   jsIntegrity: true
   # option to specify the main colour of the theme
-  mainColour: "#11199e"
+  mainColour: "#F39200"
 
   # summary options
   summary:
@@ -76,7 +75,7 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/logo.png"
+    logo: "/images/refresh-square.svg"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -107,11 +106,11 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Julia Mindlin
+    title: Julia The White
     # option to specify the subtitle in the homepage
-    subtitle: Profesional website - personal blog / Satellite image shows water vapor from argentinian National Weather Service  - SMN (https://www.smn.gob.ar/satelite) 
+    subtitle: Personal website and blog
     # option to specify image in the homepage
-    image: "/images/vapor_de_agua_2021_06_22.jpg" #"/images/avataaars.png" # worker.svg 
+    image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -119,14 +118,14 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/logo.png" #"/images/refresh-square.svg"
+    logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: julia.mindlin@cima.fcen.uba.ar
+      link: name.surname@domain.com
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: /in/julia-mindlin-256997129
+      link: your_linkedin_profile
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -135,9 +134,9 @@ params:
     #   title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
-    github: 
-       link: jumin94
-       title: Github
+    # github: 
+    #   link: username
+    #   title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer
     # twitter: 
@@ -154,7 +153,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia Mindlin - 2021
+    copyright: Julia The White - 2021
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -163,8 +162,8 @@ languages:
   en:
     languageName:       English
     weight:             1
-  es:
-    languageName:       Spanish
+  ru:
+    languageName:       Russian
     weight:             2
     # When Specifying different parameters for a different language 
     # you need to specify all the mandatory sub-parameters as well.
@@ -173,9 +172,9 @@ languages:
     # See example below:
     params:
       homepage:
-        title: Julia Mindlin
-        subtitle: Página web profesional / blog personal
-        image: "/images/home.jpg" #"/images/avataaars.png" # worker.svg 
+        title: Julia белая краска
+        subtitle: Персональный сайт и блог
+        image: "/images/avataaars.png" # worker.svg 
         imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
@@ -186,10 +185,10 @@ languages:
       footer:
         logo: "/images/refresh-square.svg"
         email: 
-          link: julia.mindlin@cima.fcen.uba.ar
-          title: Email
+          link: имя.фамилия@домен.com
+          title: Эл. адрес
         linkedin: 
-          link: julia_mindlin
+          link: your_linkedin_profile
           title: LinkedIn
         # facebook: 
         #   link: your.username
@@ -203,5 +202,5 @@ languages:
         # github: 
         #   link: username
         #   title: Github
-        copyright: Julia Mindlin - 2021
+        copyright: Julia белая краска - 2020
       
