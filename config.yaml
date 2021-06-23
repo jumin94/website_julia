@@ -163,8 +163,8 @@ languages:
   en:
     languageName:       English
     weight:             1
-  ru:
-    languageName:       Russian
+  es:
+    languageName:       Spanish
     weight:             2
     # When Specifying different parameters for a different language 
     # you need to specify all the mandatory sub-parameters as well.
