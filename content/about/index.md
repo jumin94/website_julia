@@ -13,6 +13,8 @@ I am also a [YESS community](https://www.yess-community.org/) Regional Represent
 
 I am also a musician and I use almost all my free time to study trumpet,which I am also passionate about.
 
+![This is a Figure](/about/julia.jpg "Julia")
+
 # Publications
 
 You can also check out my [Google Scholar](https://scholar.google.com/citations?user=j3grcqMAAAAJ&hl=es) or my [ResearchGate](https://www.researchgate.net/profile/Julia-Mindlin-2) profile. Please email me if you can't access any of the papers or have any questions related to the research. 
