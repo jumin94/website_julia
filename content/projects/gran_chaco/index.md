@@ -11,6 +11,6 @@ permalinks:
   posts : "activities/:gran_chaco"
 ---
 
-This is the real text of the article. 
+Proposal for 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k_gmQmaf0og/0.jpg)](https://www.youtube.com/watch?v=k_gmQmaf0og)
