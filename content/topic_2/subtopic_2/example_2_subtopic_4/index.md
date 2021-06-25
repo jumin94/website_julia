@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Networks for Southern Hemisphere Circulation Change"
+title: "Causal Effect Networks for South American regional circulation"
 date: 2020-06-17T23:53:00+01:00
 draft: false
 hideLastModified: true
