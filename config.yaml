@@ -109,7 +109,7 @@ params:
     # option to specify the title in the homepage
     title: Julia Mindlin
     # option to specify the subtitle in the homepage
-    subtitle: PhD candidate - University of Buenos Aires / Satellite image shows water vapor - Argentinian National Weather Service (SMN)
+    subtitle: PhD candidate - University of Buenos Aires 
     # option to specify image in the homepage
     image: "/images/wp_figure.png" # worker.svg 
     # option to specify the width of the image in the homepage
