@@ -22,6 +22,7 @@ All this inspired Germán to join forces with Julia (the other project leader), 
 
 Climate change, and other environmental issues that affect predominantly these frontier communities (IPCC, 2007), can be conceptualized as wicked problems (Grundmann, 2016). Wicked problems are characterized by the circularity of the social inequalities produced and reproduced by them, by leaving little room for trial and error since the stakes are high, by not presenting clear alternative solutions, and by having numerous causes that can be thought of as “contradictory certainties” (Rayner, 2017). Furthermore, these types of problems require “clumsy solutions” from which all voices are heard and arise from the interaction through compromises and negotiations rather than being planned and executed from the outside/top (Verweij et al, 2006). Our goal is then to help these silenced communities develop their own clumsy solutions and adaptation plans for climate change. 
 
+### Full proposal (click below to see the YouTube video): 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k_gmQmaf0og/0.jpg)](https://www.youtube.com/watch?v=k_gmQmaf0og)
 
 ### References
