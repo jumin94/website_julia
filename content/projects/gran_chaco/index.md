@@ -13,6 +13,8 @@ permalinks:
 
 Proposal submitted to [Youth for Water and Climate](https://youthwaterclimate.org/)
 
+![This is a Figure]()
+
 ### Project Abstract
 In the first trimester of 2018 and 2019, several flooding events affected the Western Qom community of Sombrero Negro, an indigenous group from the Gran Chaco region of Argentina. Many families were evacuated to temporary settlements and lost their houses and belongings when sediment accumulations of up to 2 meters buried entire villages (Telam, 2018). To make things worse, the winter of 2020 registered one of the greatest droughts in history and several forest fires had to be put down before they became uncontrollable (Telam, 2020). 
 
