@@ -29,8 +29,14 @@ Climate change, and other environmental issues that affect predominantly these f
 
 ### References
 
+Grundmann, R. (2016). Climate change as a wicked social problem. Nature geoscience, 9(8), 562-563.
+
 IPCC 2007. Climate change: Impacts, adaptation and vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the IPCC 978 0521 88010-7 Hardback; 978 0521 70597-4 Paperback
+
+Rayner, S. (2017). Wicked Problems. In International Encyclopedia of Geography: People, the Earth, Environment and Technology (eds D. Richardson, N. Castree, M.F. Goodchild, A. Kobayashi, W. Liu and R.A. Marston). https://doi.org/10.1002/9781118786352.wbieg0048
 
 Telam. 2018. La Crecida Del Pilcomayo Rompió Una Defensa Y Evacuaron A Unas 2.500 Personas. Available at: <https://www.telam.com.ar/notas/201802/251130-la-crecida-del-pilcomayo-rompio-una-defensa-y-evacuaron-a-unos-2500-tobas-en-formosa.html> 
 
 Telam. 2020. La sequía más intensa en 20 años empuja a la desesperación a campesinos del norte argentino. Available at: <https://www.telam.com.ar/notas/202009/513240-campesinos-sequia-chaco-cuenca-del-plata.html>
+
+Verweij, M., Douglas, M., Ellis, R., Engel, C., Hendriks, F., Lohmann, S., ... & Thompson, M. (2006). Clumsy solutions for a complex world: the case of climate change. Public administration, 84(4), 817-843.
