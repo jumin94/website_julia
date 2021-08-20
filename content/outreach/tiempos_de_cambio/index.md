@@ -4,7 +4,7 @@ date: 2019-06-17T23:53:00+01:00
 draft: false
 hideLastModified: true
 summary: "Outreach article for El Gato y La Caja"
-summaryImage: "tiempos_de_cambio.png"
+summaryImage: "tiempos.png"
 tags: ["climate change"]
 ---
 
